@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/19bmontijo/ai-investment/issues"
   },
-  "homepage": "https://github.com/19bmontijo/ai-investment#readme"
+  "homepage": "https://github.com/19bmontijo/ai-investment#readme",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
 }
