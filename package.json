@@ -1,0 +1,20 @@
+{
+  "name": "ai-invest",
+  "version": "1.0.0",
+  "description": "Machine Learning investment application that calculates optimal investment patterns based on previous data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 3000 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19bmontijo/ai-investment.git"
+  },
+  "author": "Brandon Montijo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19bmontijo/ai-investment/issues"
+  },
+  "homepage": "https://github.com/19bmontijo/ai-investment#readme"
+}
