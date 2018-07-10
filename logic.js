@@ -8,7 +8,8 @@
   
       var active = false;
   
-      var toggleMenu = function() {
+      function toggleMenu() {
+        console.log("toggle", active);
         if (!active) {
           menu.classList.add("menu--active");
           menuList.classList.add("menu__list--active");
