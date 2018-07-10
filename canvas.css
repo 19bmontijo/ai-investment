@@ -114,9 +114,7 @@ body {
   text-decoration: none;
   transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
 }
-.menu__link:before {
 
-}
 .menu__link:hover {
   color: #fff;
 }
