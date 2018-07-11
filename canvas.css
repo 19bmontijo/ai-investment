@@ -195,6 +195,12 @@ h1, h2, h3, p {
   font-size: 48px;
   font-weight: 300;
 }
+
+#coverInfo h2 {
+  text-decoration: none;
+  font-size: 16px;
+ }
+
 #aboutInfo {
   color: #fff;
   height: 100vh;
@@ -204,8 +210,14 @@ h1, h2, h3, p {
   padding: 8vw;
   background-color: #676D83;
 }
+
 #aboutInfo h1 {
   text-decoration: none;
   font-size: 48px;
   font-weight: 300;
 }
+
+ #aboutInfo h2 {
+  text-decoration: none;
+  font-size: 16px;
+ }
